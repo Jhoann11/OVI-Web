@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: rgba(10, 70, 105, 1);
+    background: #005883;
 }
 
 nav {
@@ -149,7 +149,7 @@ ul li a {
 }
 
 footer {
-    background: rgba(10, 70, 105, 1);
+    background: #005883;
     height: 50px;
     padding: 5px;
 }
